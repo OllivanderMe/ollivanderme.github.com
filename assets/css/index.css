@@ -28,11 +28,11 @@ body,html{
 	display: none;
 }
 .blur{
-    -webkit-filter: blur(50px);
-    -moz-filter: blur(50px);
-    -ms-filter: blur(50px);
-    filter: blur(50px);
-    filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius=50, MakeShadow=false);
+    -webkit-filter: blur(10px);
+    -moz-filter: blur(10px);
+    -ms-filter: blur(10px);
+    filter: blur(10px);
+    filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius=10, MakeShadow=false);
 }
 .background{
     position: absolute;
